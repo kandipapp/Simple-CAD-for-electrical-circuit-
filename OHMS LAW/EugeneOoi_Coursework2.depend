@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1734081933 source:c:\users\eugen\onedrive\desktop\eugeneooi_coursework2\eugeneooi_coursework2.c
+	"EugeneOoi_Coursework2.h"
+
+1734077111 c:\users\eugen\onedrive\desktop\eugeneooi_coursework2\eugeneooi_coursework2.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+	<windows.h>
+
+1734077115 source:c:\users\eugen\onedrive\desktop\eugeneooi_coursework2\main.c
+	"EugeneOoi_Coursework2.h"
+
